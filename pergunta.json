@@ -1,0 +1,33 @@
+[
+{
+    "nome":"Junior",
+    "pontuacao":0,
+    "nivel": "médio"
+},
+{   
+    "per0":"nome da raposa do naruto",
+    "per1":"cor do cel",
+    "per2":"cor do cafe",
+    "per3":"cor da  grama",
+    "per4":"cor da lava",
+    "per5":"cor do ouro",
+    "per6":"cor da sague",
+    "per7":"cor da sol",
+    "per8":"cor da carvao",
+    "per9":"cor da laranja",
+    "per10":"nome da fruta mais azeda"
+},
+{
+    "re0":"kurana",
+    "re1":"azul",
+    "re2":"preto",
+    "re3":"verde",
+    "re4":"vemelho",
+    "re5":"amarelo",
+    "re6":"vermelho",
+    "re7":"branco",
+    "re8":"preto",
+    "re9":"laranja",
+    "re10":"limao"
+}
+]
